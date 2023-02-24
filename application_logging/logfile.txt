@@ -84,3 +84,21 @@
 2022-12-08/12:08:43		Input Scaling
 2022-12-08/12:08:43		Generating Prediction using Trained model
 2022-12-08/12:08:43		The Predicted Price for this Property is [26.09283119]
+2022-12-08/12:32:41		Taking User Input
+2022-12-08/12:32:41		Initialising Linear Regression Model
+2022-12-08/12:32:42		Initializing Scaling model
+2022-12-08/12:32:42		Input Scaling
+2022-12-08/12:32:42		Generating Prediction using Trained model
+2022-12-08/12:32:42		The Predicted Price for this Property is [26.09283119]
+2023-02-24/22:30:50		Taking User Input
+2023-02-24/22:30:50		Initialising Linear Regression Model
+2023-02-24/22:30:51		Initializing Scaling model
+2023-02-24/22:30:51		Input Scaling
+2023-02-24/22:30:51		Generating Prediction using Trained model
+2023-02-24/22:30:51		The Predicted Price for this Property is [26.09283119]
+2023-02-24/22:31:37		Taking User Input
+2023-02-24/22:31:37		Initialising Linear Regression Model
+2023-02-24/22:31:37		Initializing Scaling model
+2023-02-24/22:31:37		Input Scaling
+2023-02-24/22:31:37		Generating Prediction using Trained model
+2023-02-24/22:31:37		The Predicted Price for this Property is [26.09283119]
