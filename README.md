@@ -1,8 +1,13 @@
-# LinearRegression-HousingPricePrediction
+# Housing Price Prediction - Linear Regression
 
-This app uses a linear regression model based on the boston housing prices dataset.
+This ML web app uses a linear regression model trained on the Boston Housing Prices dataset to predict the price of a house based on user input values. The model takes into account several variables including number of rooms, crime rate, per capita income by town, and more.
 
-It can be used to predict the housing prices based on the input data by the user.
+The linear regression model was implemented using the scikit-learn library, and to achieve better generalization, we also used regularization techniques such as Lasso, Ridge, and ElasticNet. These regularization techniques help to prevent overfitting of the model and improve its ability to generalize to new data.
+
+With this app, users can input the values for the various variables of a hypothetical house, and the model will predict the expected price based on its training data.
+
+### Check Out the App
+[Boston Housing Price Prediction](https://boston-housing-price-prediction.onrender.com)
 
 ### Dataset Description
 
